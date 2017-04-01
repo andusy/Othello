@@ -1,4 +1,4 @@
-Othello board game created grade 11 final project.
+Othello board game created by Andus Yu for grade 11 final project.
 
 Rules:
 Game Set-up
