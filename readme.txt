@@ -13,5 +13,8 @@ Making Moves
 -Disks may only be outflanked as a direct result of a move and must fall in the direct line of the disk placed down.  In Figure 8, placing a black disk at B1 outflanks white disks at C1 and D1.  After the two white disks are flipped to black, white disks at D2 and D3 remains white, as illustrated in Figure 9.
 -The game ends when there is no more empty space left on the board.  The player with the majority of his disks on the board is the winner.
 
-Note: The master ball represents the black piece and the normal pokeball represents the white piece
+Note: 
+-Run the OthelloGui.java class to start the game
+-The master ball represents the black piece and the normal pokeball represents the white piece
+	
 

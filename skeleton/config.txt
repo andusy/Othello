@@ -1,0 +1,4 @@
+3
+images/Banner.jpg
+images/Piece_1.jpg
+images/Piece_2.jpg
